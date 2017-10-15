@@ -1,8 +1,8 @@
 Redux란 무엇인가?
 
-- 핵심
-Redux는 어플리케이션의 클라이언트쪽 state를 관리하기 위한 거대한 event loop이다.
-Action = Event, Reduxer = Event에 대한 반응.
+- 핵심 \n
+Redux는 어플리케이션의 클라이언트쪽 state를 관리하기 위한 거대한 event loop이다.\n
+Action = Event, Reduxer = Event에 대한 반응.\n
 
 - Redux 등장배경
 º facebook에서 react와 함께 소개한 Flux 아키텍쳐를 구현하기 위한 라이브러리

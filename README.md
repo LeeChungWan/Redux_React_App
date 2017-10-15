@@ -1,0 +1,3 @@
+- Chungnam Univ. 
+- Major : Computer Science & Engineering
+- Name : Lee Chungwan
